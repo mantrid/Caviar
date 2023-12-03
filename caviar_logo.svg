@@ -1,20 +1,22 @@
-<svg width="324" height="332.99999999999994" xmlns="http://www.w3.org/2000/svg">
+<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <radialGradient id="svg_4" spreadMethod="pad" cx="0.5" cy="0.5" r="0.5">
-   <stop stop-color="#dd3b00" stop-opacity="0.96094" offset="0.31641"/>
-   <stop stop-color="#ff8a16" stop-opacity="0.98047" offset="1"/>
+  <radialGradient r="0.5" cy="0.5" cx="0.5" spreadMethod="pad" id="svg_4">
+   <stop offset="0.31641" stop-opacity="0.96094" stop-color="#dd3b00"/>
+   <stop offset="1" stop-opacity="0.98047" stop-color="#ff8a16"/>
   </radialGradient>
-  <radialGradient id="svg_5" spreadMethod="pad" cx="0.5" cy="0.5" r="0.5">
-   <stop stop-color="#e24700" stop-opacity="0.94531" offset="0"/>
-   <stop stop-color="#ff8d1c" stop-opacity="0.97266" offset="1"/>
+  <radialGradient r="0.5" cy="0.5" cx="0.5" spreadMethod="pad" id="svg_5">
+   <stop offset="0" stop-opacity="0.94531" stop-color="#e24700"/>
+   <stop offset="1" stop-opacity="0.97266" stop-color="#ff8d1c"/>
   </radialGradient>
  </defs>
  <g>
   <title>Layer 1</title>
-  <rect fill="#1a7a2e" stroke="#000" stroke-width="0" x="-39.14286" y="-25.21429" width="398.85714" height="373.14286" id="svg_20"/>
-  <ellipse fill="url(#svg_4)" cx="162" cy="166.5" id="svg_1" rx="140" ry="140" stroke-width="0" stroke="#000"/>
-  <ellipse fill="url(#svg_5)" stroke-width="0" cx="134.71429" cy="137.17858" id="svg_9" rx="75" ry="75" stroke="#000"/>
-  <ellipse fill="#ffed68" stroke-width="0" cx="123.35715" cy="110.32143" id="svg_16" rx="23" ry="23" stroke="#000"/>
-  <ellipse fill="#ffed68" stroke-width="0" cx="103.35715" cy="146.9881" id="svg_2" rx="10" ry="10" stroke="#000"/>
+  <rect stroke="#000" id="svg_20" height="256" width="256" y="0" x="0" stroke-width="0" fill="#1a7a2e"/>
+  <g stroke="null" id="svg_6">
+   <ellipse stroke="#000" stroke-width="0" ry="108" rx="108" id="svg_1" cy="128" cx="128" fill="url(#svg_4)"/>
+   <ellipse stroke="#000" ry="57.85714" rx="57.85714" id="svg_9" cy="105.38062" cx="106.95102" stroke-width="0" fill="url(#svg_5)"/>
+   <ellipse stroke="#000" ry="17.74286" rx="17.74286" id="svg_16" cy="84.66225" cx="98.1898" stroke-width="0" fill="#ffed68"/>
+   <ellipse stroke="#000" ry="7.71429" rx="7.71429" id="svg_2" cy="112.94796" cx="82.76123" stroke-width="0" fill="#ffed68"/>
+  </g>
  </g>
 </svg>
