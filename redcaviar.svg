@@ -1,0 +1,19 @@
+<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <radialGradient id="svg_3" spreadMethod="pad" cx="0.5" cy="0.5" r="0.5">
+   <stop stop-color="#db0000" stop-opacity="0.95703" offset="0.32031"/>
+   <stop stop-color="#ff3916" stop-opacity="0.97656" offset="1"/>
+  </radialGradient>
+  <radialGradient id="svg_4" spreadMethod="pad" cx="0.5" cy="0.5" r="0.5">
+   <stop stop-color="#e00000" stop-opacity="0.94141" offset="0"/>
+   <stop stop-color="#ff541c" stop-opacity="0.96875" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <ellipse fill="url(#svg_3)" cx="127" cy="128" id="svg_1" rx="108" ry="108" stroke-width="0" stroke="#000"/>
+  <ellipse fill="url(#svg_4)" stroke-width="0" cx="106.95102" cy="105.38062" id="svg_9" rx="57.85714" ry="57.85714" stroke="#000"/>
+  <ellipse fill="#ffc34c" stroke-width="0" cx="98.1898" cy="84.66225" id="svg_16" rx="17.74286" ry="17.74286" stroke="#000"/>
+  <ellipse fill="#ffb649" stroke-width="0" cx="82.76123" cy="112.94796" id="svg_2" rx="7.71429" ry="7.71429" stroke="#000"/>
+ </g>
+</svg>
